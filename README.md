@@ -30,10 +30,24 @@
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="flutter" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="flutter" width="40" height="40" />
+            src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="flutter" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+            alt="html5" width="40" height="40" />
+    </a>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
+            alt="html5" width="40" height="40" />
+    </a>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
+            alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
             alt="html5" width="40" height="40" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
