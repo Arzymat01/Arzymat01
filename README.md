@@ -30,10 +30,10 @@
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="flutter" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="flutter" width="40" height="40" />
+            src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="flutter" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
+            src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
             alt="html5" width="40" height="40" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
@@ -41,11 +41,7 @@
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
-    </a>
+    
 </p>
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Arzymat01&show_icons=true&locale=en&layout=compact" alt="Arzymat01" /></p>
